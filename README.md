@@ -1,4 +1,9 @@
 # ao1_opim_jrj24004
+
+Name: Yeongeun Ra  
+NetID: jrj24004
+
+
 first assignmnet for opim5512
 # A01 - California Housing Boxplot
 
